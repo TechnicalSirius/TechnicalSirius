@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalsirius&label=Profile%20views&color=0e75b6&style=flat" alt="technicalsirius" /> </p>
 
+<img src="https://raw.githubusercontent.com/Gianguyen1234/Gianguyen1234/main/Skills_Animation_Dark.gif" width="30%" align="right" >
 - 🔭 I’m currently working on **Hacking Tool**
 
 - 🌱 I’m currently learning **Cyber Security**
@@ -18,6 +19,7 @@
 - ⚡ Fun fact **I think I am Crazy**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technicalsirius" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="technicalsirius" height="30" width="40" /></a>
