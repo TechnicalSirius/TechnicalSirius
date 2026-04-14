@@ -140,9 +140,13 @@
   </p>
 
   </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=technicalsirius&show_icons=true&locale=en&layout=compact" alt="technicalsirius" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=technicalsirius&show_icons=true&locale=en" alt="technicalsirius" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technicalsirius&" alt="technicalsirius" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" hspace="20px" />
+</div>
+<br>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=TechnicalSirius&theme=dark&hide_border=false" height="170" />
+</p>
