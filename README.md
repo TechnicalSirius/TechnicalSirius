@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">I'm a Ethical Hacker and Web Developer, Software Developer, Cyber Security in India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalsirius&label=Profile%20views&color=0e75b6&style=flat" alt="technicalsirius" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnicalSirius&label=Profile%20views&color=0e75b6&style=flat" alt="TechnicalSirius" /> </p>
 
 <img src="https://raw.githubusercontent.com/Gianguyen1234/Gianguyen1234/main/Skills_Animation_Dark.gif" width="30%" align="right" >
 - 🔭 I’m currently working on **Hacking Tool**
@@ -19,12 +19,14 @@
 - ⚡ Fun fact **I think I am Crazy**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-<a href="https://twitter.com/technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technicalsirius" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="technicalsirius" height="30" width="40" /></a>
-<a href="https://fb.com/technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="technicalsirius" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@technicalsirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@technicalsirius" height="30" width="40" /></a>
+<a href="https://twitter.com/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TechnicalSirius" height="30" width="40" /></a>
+ 
+<a href="https://linkedin.com/in/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TechnicalSirius" height="30" width="40" /></a>
+
+<a href="https://instagram.com/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TechnicalSirius" height="30" width="40" /></a>
+
+<a href="https://www.youtube.com/c/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TechnicalSirius" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
