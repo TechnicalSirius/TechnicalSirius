@@ -21,9 +21,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TechnicalSirius" height="30" /></a> &nbsp;
-	<a href="https://fb.com/felipe.elia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://instagram.com/felipe.elia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
-	<a href="https://www.youtube.com/c/TechnicalSiriuswp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TechnicalSiriuswp" height="30" /></a>&nbsp;
+	<a href="https://fb.com/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TechnicalSirius" height="30" /></a>&nbsp;
+	<a href="https://instagram.com/TechnicalSirius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TechnicalSirius" height="30" /></a>&nbsp;
+	<a href="https://www.youtube.com/c/TechnicalSiriuswp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Technical_Sirius" height="30" /></a>&nbsp;
 </p>
 
 
