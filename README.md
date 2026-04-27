@@ -145,10 +145,25 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170" hspace="20px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=TechnicalSirius&theme=default&hide_border=false&include_all_commits=true&count_private=false">
+    <img src="https://github-readme-stats.shion.dev/api?username=TechnicalSirius&theme=dark" height="170" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TechnicalSirius&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=TechnicalSirius&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TechnicalSirius&theme=dark" height="170" hspace="20px" />
+  </picture>
 </div>
+
 <br>
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=TechnicalSirius&theme=dark&hide_border=false" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=TechnicalSirius&theme=dark&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TechnicalSirius&theme=default&hide_border=false">
+    <img src="https://streak-stats.demolab.com/?user=TechnicalSirius&theme=dark" height="170" />
+  </picture>
 </p>
